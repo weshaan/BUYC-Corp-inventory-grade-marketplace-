@@ -1,0 +1,1 @@
+export default function AddCar() { return <div>Add Car Page</div> }
