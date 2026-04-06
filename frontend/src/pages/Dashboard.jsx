@@ -23,7 +23,7 @@ const DUMMY_INVENTORY = [
   {
     id: 3,
     title: '2020 Hyundai Creta SX',
-    image: 'https://images.unsplash.com/photo-1619682817481-e994891cd1f5?auto=format&fit=crop&w=500&q=60',
+    image: 'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=500&q=80',
     price: 1250000,
     color: 'Black',
     mileage: 15,
