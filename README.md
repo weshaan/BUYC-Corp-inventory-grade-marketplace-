@@ -39,7 +39,8 @@ Built a robust Express.js server to bridge the React frontend with the PostgreSQ
 * **Endpoints Built:**
   * `GET /api/oem/count`: Calculates and returns the total number of official OEM models available in the system.
   * `GET /api/oem/search`: A dynamic search endpoint allowing query parameters (e.g., `?model_name=City&year=2015`) to filter the OEM catalog using parameterized SQL queries.
-<img width="345" height="236" alt="Untitled" src="https://github.com/user-attachments/assets/9b350d65-a261-4dda-8507-4e8fba9d0b91" />
+<img width="auto" height="240" alt="Untitled" src="https://github.com/user-attachments/assets/9b350d65-a261-4dda-8507-4e8fba9d0b91" />
+<img width="auto" height="240" alt="image" src="https://github.com/user-attachments/assets/f03888bb-5a05-47bc-a7e9-4c2c78aff936" />
 
 
 ---
